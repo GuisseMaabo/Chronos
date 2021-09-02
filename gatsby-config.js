@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Chronos Blog`,
+    description: `A journey in the time and the space but now the plane uses the time as .`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
@@ -13,6 +13,8 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+        name: `blog`,
+        path: `${__dirname}/blog`,
       },
     },
     `gatsby-transformer-sharp`,
