@@ -14,7 +14,7 @@
     
       ``` Demo
     # Welcome to Chronos
-       https://chronosmain.gatsbyjs.io/blog/second/
+       [Blog]((https://chronosmain.gatsbyjs.io/blog/second/))
     ```
 
     ```shell
