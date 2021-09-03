@@ -14,6 +14,7 @@
     
 
     # Welcome to Chronos
+    
        [Blog]((https://chronosmain.gatsbyjs.io/blog/second/))
 
 
