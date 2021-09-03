@@ -6,9 +6,9 @@ import Layout from '../components/layout'
 // Step 2: Define your component
 const AboutPage = () => {
   return (
-    <Layout pageTitle="Me"> 
-      <h1>Ciré</h1>
-      <p>Hi there! I'm a human lost in the space time.</p>
+    <Layout pageTitle=" About Me"> 
+      <h1>I'm Cire</h1>
+      <p>Hi there! I'm not a robot but a human who loves humanity.</p>
       <Link to="/">Back to blog</Link>
     </Layout>
 

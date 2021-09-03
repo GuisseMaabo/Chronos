@@ -11,7 +11,7 @@ const IndexPage = () => {
          <Layout pageTitle="Chronos Articles ">
             <h1>Hey, my name is cire welcome to my blog</h1>
             <Link to="/about">About</Link>
-          <p>Chronos is a Journey in the time blog using Gatsby .</p>
+          <p>Chronos is a Journey in the time.</p>
           <StaticImage
         alt="Memories, "
         src="../images/clock.jpg"
