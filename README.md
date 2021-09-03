@@ -9,9 +9,9 @@
 ## 🚀 Quick start
 
 
-1.  **Demo.**
+1.  **Chronos.**
 
-    Use the Gatsby CLI ([Demo](https://chronosmain.gatsbyjs.io/blog/second/)) 
+    Visit the blog ([Chronos](https://chronosmain.gatsbyjs.io/blog/second/)) 
 
 2.  **Create a Gatsby site.**
 
