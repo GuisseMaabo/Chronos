@@ -12,10 +12,10 @@
 
     Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the default starter.
     
-      ``` Demo
+
     # Welcome to Chronos
        [Blog]((https://chronosmain.gatsbyjs.io/blog/second/))
-    ```
+
 
     ```shell
     # create a new Gatsby site using the default starter
