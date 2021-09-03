@@ -8,22 +8,22 @@
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+
+1.  **Demo.**
+
+    Use the Gatsby CLI ([Demo](https://chronosmain.gatsbyjs.io/blog/second/)) 
+
+2.  **Create a Gatsby site.**
 
     Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the default starter.
     
-
-    # Welcome to Chronos
-    
-       [Blog]((https://chronosmain.gatsbyjs.io/blog/second/))
-
 
     ```shell
     # create a new Gatsby site using the default starter
     gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
 
-1.  **Start developing.**
+3.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -32,7 +32,7 @@
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+4.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
